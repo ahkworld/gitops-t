@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: ghcr.io/ahkworld/nodejs/nodejs-t:2021113008170394b93d
+        image: ghcr.io/ahkworld/nodejs/nodejs-t:main
         ports:
         - containerPort: 8888
 
