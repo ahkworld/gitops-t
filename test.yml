@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: ahkworld/nodejs-t
+        image: ahkworld/nodejs-t:main
         ports:
         - containerPort: 8888
 
